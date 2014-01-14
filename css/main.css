@@ -41,3 +41,7 @@
     border-bottom-left-radius: 3px;
     border-left: medium none;
 }
+
+.styleguide > .content { 
+    margin-left: 20px;
+}
