@@ -42,7 +42,7 @@
     border-left: medium none;
 }
 
-#buttons { 
+#buttons, .content { 
     margin-left: 20px;
     width: 95%;
 }
